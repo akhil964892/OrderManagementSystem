@@ -1,4 +1,6 @@
 # Order Management System (FastAPI + RabbitMQ + Kubernetes)
+*Assignment for 4th Orbit Internship Cum PPO Recruitment Drive-2026 Batch*
+**Video Representation:** https://drive.google.com/file/d/1pfEsS1DVAOtgLJjc9yiTou7aU5syUoJ9/view?usp=sharing
 
 Minimal microservices demo you can run quickly on **Minikube** or **Docker Desktop (Kubernetes)**.
 
